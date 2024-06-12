@@ -1,0 +1,2 @@
+<h1>France</h1>
+<img src="Images/France.jpg">
